@@ -1,2 +1,2 @@
 # LeedCodeBlind75
-Here are questions from the blind 75 leetcode questions: https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+Here are posts related to the blind 75 leetCode questions: https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
